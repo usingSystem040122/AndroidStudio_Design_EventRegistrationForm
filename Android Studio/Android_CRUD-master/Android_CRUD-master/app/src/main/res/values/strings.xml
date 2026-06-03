@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD</string>
+
+    <string-array name="status" >Selection
+        <item> Student </item>
+        <item> Employee </item>
+        <item> Veteran </item>
+        <item> Business Owner</item>
+        <item> Freelancer</item>
+    </string-array>
+</resources>
